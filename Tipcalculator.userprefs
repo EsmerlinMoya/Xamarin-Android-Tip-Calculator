@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B52481E6-B7FB-4F57-AAAA-BDC4B188E8C7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tipcalculator/MainActivity.cs">
+    <Files>
+      <File FileName="Tipcalculator/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tipcalculator AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean) Xamarin" />
+</Properties>
